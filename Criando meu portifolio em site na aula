@@ -1,0 +1,61 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portfolio Alexandre Eiji Nakagawa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+    <h1>Alexandre Eiji Nakagawa</h1>   
+    <img src="minha-foto.jpg.png" alt="Minha foto">
+    <h2>Sou um estudante aprendendo progrmação e aprendendo a desenvolver web, tenho 18 anos e estou no segundo semestre. </h2>
+    <p>Sou uma pessoa muito esforçada sempre querendo aprender mais e sempre me esforçando para dar meu melhor.</p>
+    </section>
+</body>
+</html>
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+style.css
+
+body {
+
+background-color: #611267;
+color: white;
+}
+
+h1 {
+    color: purple;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: purple;
+    front-size: 30px;
+}
+
+section{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
